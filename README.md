@@ -1,0 +1,2 @@
+# Touch-Table
+The purpose of this project is to build an interactive touchscreen table that will eventually be built into a coffee table. The touch screen can be used to call up a keyboard for interacting with the tv and acting as a remote. I also want to turn it into a game system with arcade controls available and maybe even use it as a digital library for media such as netflix and streaming video.
